@@ -20,7 +20,7 @@ O objetivo deste módulo é introduzir os conceitos fundamentais da tecnologia B
 
 O desafio prático deste módulo envolve o desenvolvimento de uma blockchain simples, demonstrando a criação de blocos, cálculo de hashes, validação de cadeia e um mecanismo básico de Proof-of-Work.
 
-- **[Repositório do Projeto](https://github.com/devitruvius/aurelia-demo)**
+- **[Repositório do Projeto](https://github.com/vasconcel/aurelia-demo)**
 
 ### 3. [Blockchain: Grassy Plateau](https://sky-clock-04e.notion.site/10f0cf4779388023b51ccbe7edaf9a8b?v=1b1c2dd9d08f479ea28b44bc68ecbd22&pvs=4)
 
