@@ -1,56 +1,56 @@
-# [Crypto Submersion](https://sky-clock-04e.notion.site/Crypto-Submersion-10c0cf477938801ebda8e0059ccb94b7?pvs=4)
+# Crypto Submersion: Criptografia e Blockchain
 
-## Objetivo
+## Introdução
 
-Este repositório tem como objetivo registrar e compartilhar as experiências adquiridas durante o estágio em **AWS Blockchain** e **Real Digital** pelo Compass UOL, incluindo pesquisas, projetos e insights sobre crypto e suas aplicações no mercado.
+Este repositório documenta o percurso de aprendizado e desenvolvimento durante o estágio em **AWS Blockchain** e **Real Digital** pelo Compass UOL. Ele reúne anotações, materiais de estudo, e projetos práticos que demonstram o conhecimento adquirido em diferentes áreas da criptografia e tecnologia blockchain.
 
 ## Níveis de Aprendizado
 
-Cada nível contém uma coleção de anotações, materiais e recursos organizados pelos cursos e tópicos abordados.
+Cada nível corresponde a um módulo do programa de estágio, apresentando conceitos e desafios progressivos.
 
-### 1. [Basics for Teamwork and Agile Development](https://sky-clock-04e.notion.site/10d0cf47793880e88008d2969baad064?v=43eaeedb151747f89e3fac0d19b85023)
+### 1. Basics for Teamwork and Agile Development
 
-Este módulo visa fornecer as bases para a colaboração eficaz em equipe, apresentando ferramentas e práticas essenciais para o desenvolvimento de software, com foco em metodologias ágeis e sistemas de controle de versão.
+[Link para o Notion](https://sky-clock-04e.notion.site/10d0cf47793880e88008d2969baad064?v=43eaeedb151747f89e3fac0d19b85023)
 
-### 2. [Blockchain: Safe Shallows](https://sky-clock-04e.notion.site/10d0cf477938804c8175d3fa04be2702?v=fc87071403e249ef86c44c2dbf09e581)
+#### Tópicos abordados: Metodologias Ágeis (Scrum, Kanban), Git e GitHub.
 
-O objetivo deste módulo é introduzir os conceitos fundamentais da tecnologia Blockchain, permitindo explorar suas aplicações em um ambiente controlado e seguro.
+### 2. Blockchain: Safe Shallows
 
-### Desafio Prático: Blockchain Simples
+[Link para o Notion](https://sky-clock-04e.notion.site/10d0cf477938804c8175d3fa04be2702?v=fc87071403e249ef86c44c2dbf09e581)
 
-O desafio prático deste módulo envolve o desenvolvimento de uma blockchain simples, demonstrando a criação de blocos, cálculo de hashes, validação de cadeia e um mecanismo básico de Proof-of-Work.
+Tópicos abordados: Funcionamento básico da blockchain, Bitcoin, conceitos fundamentais.
 
-- **[Repositório do Projeto](https://github.com/vasconcel/aurelia-demo)**
+### 3. Blockchain: Grassy Plateau
 
-### 3. [Blockchain: Grassy Plateau](https://sky-clock-04e.notion.site/10f0cf4779388023b51ccbe7edaf9a8b?v=1b1c2dd9d08f479ea28b44bc68ecbd22&pvs=4)
+[Link para o Notion](https://sky-clock-04e.notion.site/10f0cf4779388023b51ccbe7edaf9a8b?v=1b1c2dd9d08f479ea28b44bc68ecbd22&pvs=4)
 
-Este módulo explora aspectos mais complexos da tecnologia Blockchain. Diferenças entre tipos de blockchains, conceitos de criptografia e segurança, e os diversos algoritmos de consenso fazem parte deste nível.
+Tópicos abordados: Tipos de blockchains, algoritmos de consenso, segurança e criptografia.
 
-## 🌐 Mapa dos Diretórios
+## Projetos Desenvolvidos
+
+Esta seção lista projetos desenvolvidos durante o estágio, independentemente do módulo específico.  Ela serve como um portfólio de trabalhos práticos.
+
+### **1. [Aurelia Network](https://github.com/vasconcel/aurelia-demo)**
+Com o objetivo de demonstrar os conceitos fundamentais de uma blockchain de forma prática e interativa, o projeto inclui a mineração de blocos com um sistema Proof-of-Work simplificado, a gestão de transações e a verificação da integridade da cadeia.
+
+## 🌐 Estrutura do Repositório
 
 ```
 crypto-submersion/
 │
 ├─ README.md
 │
-├─ Basics for Teamwork and Agile Development
-│  ├─ Como fazer Metodologias Ágeis – Scrum e Kanban na Prática
-│  ├─ Aprenda Git e GitHub em 3 dias + Projetos reais
-│  └─ ... (demais cursos)
+├─ modulo-1-basics-agile-development/
+│  └─ ...
 │
-├─ Blockchain: Safe Shallows
-│  ├─ Blockchain explicada em 5 níveis de dificuldade
-│  ├─ Bitcoin e Blockchain - Conceitos Fundamentais
-│  └─ ... (demais cursos)
+├─ modulo-2-blockchain-safe-shallows/
+│  └─ aurelia-network/
 │
-├─ Blockchain: Grassy Plateau
-│  └─ ... (conteúdo específico deste nível)
+├─ modulo-3-blockchain-grassy-plateau/
+│  └─ ...
 │
-├─ Blockchain: Grand Reef
-│  └─ ... (conteúdo específico deste nível)
-│
-└─ Blockchain: Lost River
-   └─ ... (conteúdo específico deste nível)
+└─ projetos/
+   └─ ...
 ```
 
 ## Licença
