@@ -30,7 +30,7 @@ Cada nível corresponde a um módulo do programa de estágio, apresentando conce
 
 ## Portfólio de Projetos
 
-### **1. [Aurelia Blockchain](https://github.com/vasconcel/aurelia-demo)**
+### **1. [Aurelia Blockchain](https://github.com/vasconcel/aurelia-blockchain)**
 Projeto que implementa uma blockchain simulada com funcionalidades como mineração via Proof-of-Work, gestão de transações, resolução de forks, controle de saldos e taxas de transação. Inclui uma interface de linha de comando (CLI) para interação e simula uma rede P2P para comunicação entre nós. 
 
 **Tecnologias utilizadas:**  
