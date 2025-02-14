@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este repositório documenta o percurso de aprendizado e desenvolvimento durante o estágio em **AWS Blockchain** e **Real Digital** pelo Compass UOL. Ele reúne anotações, materiais de estudo, e projetos práticos que demonstram o conhecimento adquirido em diferentes áreas da criptografia e tecnologia blockchain.
+Este repositório documenta minha jornada de aprendizado e desenvolvimento durante o estágio em *AWS Blockchain* e *Real Digital* pelo Compass UOL. Aqui, reúno anotações, materiais de estudo e projetos práticos que demonstram minha evolução em criptografia e tecnologia blockchain
 
 ## Níveis de Aprendizado
 
@@ -32,15 +32,21 @@ Tópicos abordados: Tipos de blockchains, algoritmos de consenso, segurança e c
 
 Tópicos abordados: Elliptic Curves, Smart Contracts, Solidity, Ethereum Blockchain Developer Bootcamp.
 
+### 5. Blockchain: Lost River
+
+- [Link para o Notion](https://sky-clock-04e.notion.site/1770cf477938804dadc2d0a3b0910542?v=fa10c52483324d8eb1ed160d20ccccd9&pvs=4)
+
+Tópicos abordados: AWS Cloud Practitioner Certification, serviços AWS (EC2, S3, Lambda, VPC, etc.), gerenciamento de infraestrutura, segurança e compliance, machine learning, monitoramento e integrações em nuvem.
+
 ## Projetos Desenvolvidos
 
 Esta seção lista projetos desenvolvidos durante o estágio, independentemente do módulo específico. Ela serve como um portfólio de trabalhos práticos.
 
 ### **1. [Aurelia Blockchain](https://github.com/vasconcel/aurelia-demo)**
-Com o objetivo de demonstrar os conceitos fundamentais de uma blockchain de forma prática e interativa, o projeto inclui a mineração de blocos com um sistema Proof-of-Work simplificado, a gestão de transações e a verificação da integridade da cadeia.
+Projeto que demonstra os conceitos fundamentais de uma blockchain, incluindo mineração com Proof-of-Work, gestão de transações e verificação da integridade da cadeia."
 
 ### **2. [Mermaid NFT](https://github.com/vasconcel/mermaid-NFT)**
-Projeto final da trilha Crypto Submersion. Mermaid é uma DApp full-stack para gestão de direitos autorais na indústria musical. Artistas e detentores de direitos podem registrar e gerenciar seus direitos de forma transparente e segura na blockchain.
+DApp full-stack para gestão de direitos autorais na indústria musical, permitindo o registro e gerenciamento transparente de direitos na blockchain.
 
 ## 🌐 Estrutura do Repositório
 
@@ -48,22 +54,14 @@ Projeto final da trilha Crypto Submersion. Mermaid é uma DApp full-stack para g
 crypto-submersion/
 │
 ├─ README.md
-│
-├─ modulo-1-basics-agile-development/
+├─ modulos/
+│  ├─ basics-agile-development/
+│  ├─ blockchain-safe-shallows/
+│  ├─ blockchain-grassy-plateau/
 │  └─ ...
-│
-├─ modulo-2-blockchain-safe-shallows/
-│  └─ aurelia-network/
-│
-├─ modulo-3-blockchain-grassy-plateau/
-│  └─ ...
-│
 └─ projetos/
    ├─ aurelia-blockchain/
-   │  └─ ...
-   │
    └─ mermaid-NFT/
-      └─ ...
 ```
 
 ## Licença
