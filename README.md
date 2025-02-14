@@ -43,7 +43,7 @@ Tópicos abordados: AWS Cloud Practitioner Certification, serviços AWS (EC2, S3
 Esta seção lista projetos desenvolvidos durante o estágio, independentemente do módulo específico. Ela serve como um portfólio de trabalhos práticos.
 
 ### **1. [Aurelia Blockchain](https://github.com/vasconcel/aurelia-demo)**
-Projeto que demonstra os conceitos fundamentais de uma blockchain, incluindo mineração com Proof-of-Work, gestão de transações e verificação da integridade da cadeia."
+Projeto que demonstra os conceitos fundamentais de uma blockchain, incluindo mineração com Proof-of-Work, gestão de transações e verificação da integridade da cadeia.
 
 ### **2. [Mermaid NFT](https://github.com/vasconcel/mermaid-NFT)**
 DApp full-stack para gestão de direitos autorais na indústria musical, permitindo o registro e gerenciamento transparente de direitos na blockchain.
