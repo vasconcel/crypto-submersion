@@ -1,4 +1,4 @@
-# [Crypto Submersion // Cryptography & Blockchain](https://www.notion.so/Crypto-Submersion-10c0cf477938801ebda8e0059ccb94b7)
+# [Crypto Submersion // Cryptography & Blockchain](https://sky-clock-04e.notion.site/Crypto-Submersion-10c0cf477938801ebda8e0059ccb94b7?pvs=4)
 
 ## Overview
 
