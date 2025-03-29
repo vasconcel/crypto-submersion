@@ -1,8 +1,12 @@
-# [Crypto Submersion // Cryptography & Blockchain](https://sky-clock-04e.notion.site/Crypto-Submersion-10c0cf477938801ebda8e0059ccb94b7?pvs=4)
+# Crypto Submersion // Cryptography & Blockchain
 
 ## Overview
 
 This repository documents the learning and development path undertaken during the **AWS Blockchain** & **Real Digital** scholarship program provided by Compass UOL. It consolidates notes, study materials, and practical projects, charting the evolution in understanding cryptography and blockchain technology.
+
+<p align="left">
+  <a target="_blank" href="https://sky-clock-04e.notion.site/Crypto-Submersion-10c0cf477938801ebda8e0059ccb94b7?pvs=4"><img src="https://img.shields.io/badge/View%20Full%20Log-Notion-%23000000?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="View Full Log on Notion"></a>
+</p>
 
 ## Learning_Modules
 
